@@ -52,7 +52,6 @@
       <change afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/book.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/专题/log/本地部署ELK.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
@@ -101,20 +100,17 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/解读" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/观点" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/基础" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/解读" />
-      <recent name="$PROJECT_DIR$/基础" />
-      <recent name="$PROJECT_DIR$/专题" />
       <recent name="$PROJECT_DIR$/观点" />
       <recent name="$PROJECT_DIR$/专题：log" />
+      <recent name="$PROJECT_DIR$/解读：Webpack" />
+      <recent name="$PROJECT_DIR$/解读：Vue" />
+      <recent name="$PROJECT_DIR$/解读：React" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -127,7 +123,7 @@
       <updated>1608105519499</updated>
       <workItem from="1608105520651" duration="6000" />
       <workItem from="1608105555117" duration="1295000" />
-      <workItem from="1608107164742" duration="1307000" />
+      <workItem from="1608107164742" duration="363000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客地址">
       <created>1608105864852</created>
