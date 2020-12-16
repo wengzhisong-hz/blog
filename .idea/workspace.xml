@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22eafe81-4c1f-4386-aee4-d5b7157e6ac4" name="默认的" comment="">
+    <list default="true" id="22eafe81-4c1f-4386-aee4-d5b7157e6ac4" name="默认的" comment="添加博客地址">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -64,8 +64,16 @@
       <option name="presentableId" value="Default" />
       <updated>1608105519499</updated>
       <workItem from="1608105520651" duration="6000" />
-      <workItem from="1608105555117" duration="242000" />
+      <workItem from="1608105555117" duration="649000" />
     </task>
+    <task id="LOCAL-00001" summary="添加博客地址">
+      <created>1608105864852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608105864852</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +89,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加博客地址" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加博客地址" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1360" y="291" key="Vcs.Push.Dialog.v2" timestamp="1608105869879">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/-703.1103.1440.877/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1608105869879" />
   </component>
 </project>
