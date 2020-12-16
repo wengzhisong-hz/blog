@@ -1,1 +1,1 @@
-个人博客, 详见issue
+博客地址 https://wengzhisong-hz.github.io/blog/
