@@ -3,7 +3,6 @@ module.exports = {
     description: 'Just playing around',
     themeConfig: {
         sidebar: [
-
             {
                 title: '基础',
                 path: '/basic/',
