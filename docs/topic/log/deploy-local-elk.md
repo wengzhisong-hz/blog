@@ -1,9 +1,9 @@
+# 在本地（mac）环境安装 ELK
+
 ELK = Elasticsearch（实时的分布式搜索和分析引擎） + Logstash（数据收集引擎） + Kibana（可视化 web 平台）;
 node 打点服务提供数据；
 
-## 在本地（mac）环境安装 ELK
-
-### 部署 Elasticsearch
+## 部署 Elasticsearch
 
 使用 homebrew 安装：`brew install elasticsearch`；
 
@@ -31,7 +31,7 @@ node 打点服务提供数据；
 }
 ```
 
-### 部署 Kibana
+## 部署 Kibana
 
 同样的，执行下面指令部署和启动 Logstash:
 
@@ -45,7 +45,7 @@ brew services start kibana
 
 访问 `localhost:5601` 即可看到 kibana 页面（需要 Elasticsearch 服务启动）；
 
-### 部署 Logstash
+## 部署 Logstash
 
 同样的，执行下面指令部署和启动 Logstash:
 
