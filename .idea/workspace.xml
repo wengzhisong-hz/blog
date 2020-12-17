@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22eafe81-4c1f-4386-aee4-d5b7157e6ac4" name="默认的" comment="deploy">
+    <list default="true" id="22eafe81-4c1f-4386-aee4-d5b7157e6ac4" name="默认的" comment="修改标题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +31,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1ljLOE4XkgDyrVAZoXl2W62rth2" />
   <component name="ProjectLevelVcsManager">
@@ -75,7 +75,7 @@
       <workItem from="1608105520651" duration="6000" />
       <workItem from="1608105555117" duration="1295000" />
       <workItem from="1608107164742" duration="1307000" />
-      <workItem from="1608171453323" duration="8344000" />
+      <workItem from="1608171453323" duration="8579000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客地址">
       <created>1608105864852</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608188680177</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改标题">
+      <created>1608189795222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608189795222</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +136,8 @@
     <MESSAGE value="移除博客地址" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="deploy" />
-    <option name="LAST_COMMIT_MESSAGE" value="deploy" />
+    <MESSAGE value="修改标题" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改标题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="802" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608173578808">
@@ -140,10 +148,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="469" y="190" key="SettingsEditor/-703.1103.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1608174727014" />
-    <state x="560" y="291" key="Vcs.Push.Dialog.v2" timestamp="1608188696652">
+    <state x="560" y="291" key="Vcs.Push.Dialog.v2" timestamp="1608189799872">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/-703.1103.1440.877/-1920.23.1920.1057/0.23.1920.1057@-1920.23.1920.1057" timestamp="1608106312656" />
-    <state x="560" y="291" key="Vcs.Push.Dialog.v2/-703.1103.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1608188696652" />
+    <state x="560" y="291" key="Vcs.Push.Dialog.v2/-703.1103.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1608189799872" />
   </component>
 </project>
