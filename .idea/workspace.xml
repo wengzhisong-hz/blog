@@ -20,8 +20,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22eafe81-4c1f-4386-aee4-d5b7157e6ac4" name="默认的" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/basic/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/basic/java/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/basic/javascript/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/basic/linux/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/basic/mongodb/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/basic/mysql/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/basic/webpack/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/deepin/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/deepin/koa/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/deepin/nest/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/deepin/node/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/deepin/react/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/deepin/spring/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/deepin/vue/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/opinion/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/authorization/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/cms/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/cross-platform/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/fe-infrastructure/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/handwriting/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/live-streaming/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/log/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/low-code/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/main-data/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/micro-fe/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/topic/user-center/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/docs/basic/electron/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/.idea/blog.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/.idea/modules.xml" beforeDir="false" />
@@ -51,6 +86,11 @@
       <change beforePath="$PROJECT_DIR$/_book/gitbook/theme.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/专题/log/本地部署ELK.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/topic/log/deploy-local-elk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/观点/如何选择个人时间管理APP.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/专题/log/本地部署ELK.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/观点/如何选择个人时间管理APP.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/opinion/GTD.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,20 +113,22 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/解读" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/deepin" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/基础" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/解读" />
+      <recent name="$PROJECT_DIR$/docs/deepin" />
+      <recent name="$PROJECT_DIR$/docs/topic/user-center" />
+      <recent name="$PROJECT_DIR$/docs/topic/micro-fe" />
+      <recent name="$PROJECT_DIR$/docs/topic/main-data" />
+      <recent name="$PROJECT_DIR$/docs/topic/low-code" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress" />
       <recent name="$PROJECT_DIR$/基础" />
-      <recent name="$PROJECT_DIR$/专题" />
-      <recent name="$PROJECT_DIR$/观点" />
-      <recent name="$PROJECT_DIR$/专题：log" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -100,6 +142,7 @@
       <workItem from="1608105520651" duration="6000" />
       <workItem from="1608105555117" duration="1295000" />
       <workItem from="1608107164742" duration="1307000" />
+      <workItem from="1608171453323" duration="6515000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客地址">
       <created>1608105864852</created>
@@ -140,6 +183,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="移除博客地址" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="802" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608173578808">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="802" y="360" key="#com.intellij.fileTypes.FileTypeChooser/-703.1103.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1608173578808" />
+    <state x="469" y="190" key="SettingsEditor" timestamp="1608174727014">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="469" y="190" key="SettingsEditor/-703.1103.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1608174727014" />
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2" timestamp="1608106312656">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
