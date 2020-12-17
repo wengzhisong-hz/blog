@@ -17,5 +17,5 @@ git commit -m 'deploy'
 git checkout dev || git checkout -b dev
 git merge master
 git push origin dev
-git chekout master
+git checkout master
 cd -
