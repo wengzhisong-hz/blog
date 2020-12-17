@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22eafe81-4c1f-4386-aee4-d5b7157e6ac4" name="默认的" comment="修改标题">
+      <change afterPath="$PROJECT_DIR$/docs/basic/shell/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +46,22 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/deepin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/basic" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/.vuepress" />
+      <recent name="$PROJECT_DIR$/基础" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/basic" />
       <recent name="$PROJECT_DIR$/docs/deepin" />
       <recent name="$PROJECT_DIR$/docs/topic/user-center" />
       <recent name="$PROJECT_DIR$/docs/topic/micro-fe" />
       <recent name="$PROJECT_DIR$/docs/topic/main-data" />
-      <recent name="$PROJECT_DIR$/docs/topic/low-code" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/.vuepress" />
-      <recent name="$PROJECT_DIR$/基础" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,7 +75,8 @@
       <workItem from="1608105520651" duration="6000" />
       <workItem from="1608105555117" duration="1295000" />
       <workItem from="1608107164742" duration="1307000" />
-      <workItem from="1608171453323" duration="11074000" />
+      <workItem from="1608171453323" duration="11274000" />
+      <workItem from="1608195895041" duration="338000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客地址">
       <created>1608105864852</created>

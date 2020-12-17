@@ -44,7 +44,14 @@ module.exports = {
                         path: '/basic/mysql/',
                         collapsable: false,
                         children: []
-                    },{
+                    },
+                    {
+                        title: 'Shell',
+                        path: '/basic/shell/',
+                        collapsable: false,
+                        children: []
+                    },
+                    {
                         title: 'Webpack',
                         path: '/basic/webpack/',
                         collapsable: false,
