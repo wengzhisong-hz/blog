@@ -1,6 +1,10 @@
 module.exports = {
     title: '宁静致远',
     description: '宁静致远',
+    nav: [
+        { text: 'github', link: 'https://github.com/wengzhisong-hz' },
+        { text: '算法笔记', link: 'https://wengzhisong-hz.github.io/algorithm/' }
+    ],
     themeConfig: {
         sidebar: [
             {
