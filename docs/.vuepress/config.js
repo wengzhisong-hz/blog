@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'title',
-    description: 'Just playing around',
+    title: '宁静致远',
+    description: '宁静致远',
     themeConfig: {
         sidebar: [
             {
