@@ -14,6 +14,12 @@ module.exports = {
                 sidebarDepth: 2,
                 children: [
                     {
+                        title: 'C++',
+                        path: '/basic/c++/',
+                        collapsable: false,
+                        children: []
+                    },
+                    {
                         title: 'Electron',
                         path: '/basic/electron/',
                         collapsable: false,

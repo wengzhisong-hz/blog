@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22eafe81-4c1f-4386-aee4-d5b7157e6ac4" name="默认的" comment="修改标题">
+      <change afterPath="$PROJECT_DIR$/docs/basic/c++/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
     </list>
@@ -75,7 +76,7 @@
       <workItem from="1608105555117" duration="1295000" />
       <workItem from="1608107164742" duration="1307000" />
       <workItem from="1608171453323" duration="11274000" />
-      <workItem from="1608195895041" duration="1523000" />
+      <workItem from="1608195895041" duration="3375000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客地址">
       <created>1608105864852</created>
