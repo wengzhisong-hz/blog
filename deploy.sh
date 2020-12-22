@@ -8,7 +8,8 @@ npm run build
 cd docs/.vuepress/dist
 git init
 git add -A
-git commit -m 'deploy'
+time=$(date "+%Y%m%d-%H%M%S")
+git commit -m "deploy ${time}"
 git push -f git@github.com:wengzhisong-hz/wengzhisong-hz.github.io.git master
 
 cd ../../
