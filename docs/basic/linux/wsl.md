@@ -22,8 +22,6 @@ wsl全称：Windows Subsystem for Linux，wsl2对wsl进行了巨大的改进，�
 
 #### 升级为wsl2
 
-**注意：由于公司统一安装的windows版本低于18917，所以无法升级到wsl2。**
-
 1. 以**管理员身份**打开 PowerShell 并运行:
 
 ```powershell

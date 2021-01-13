@@ -1,8 +1,8 @@
 #!/usr/bin/env sh
 set -e
 
-# git add .
-# git commit -m 'deploy'
+git add .
+git commit -m 'deploy'
 
 npm run build
 cd docs/.vuepress/dist
