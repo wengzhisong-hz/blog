@@ -41,7 +41,12 @@ module.exports = {
                         title: 'Linux',
                         path: '/basic/linux/',
                         collapsable: false,
-                        children: []
+                        children: [
+                            {
+                                title: 'Windows部署前端Linux开发环境',
+                                path: '/basic/linux/wsl.md',
+                            }
+                        ]
                     },
                     {
                         title: 'Mongodb',
