@@ -169,8 +169,6 @@ nvm ls
 
 #### oh-my-zsh
 
-**建议用自己手机热点安装oh-my-zsh，公司网络连接不上github资源，不要浪费青春**
-
 先安装zsh：
 
 ```bash
